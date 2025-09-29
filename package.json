@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/themosis/theme#readme",
   "devDependencies": {
-    "cross-env": "7.0.3",
+    "cross-env": "10.1.0",
     "laravel-mix": "6.0.49",
     "resolve-url-loader": "5.0.0",
     "sass": "1.56.0",
